@@ -1,0 +1,15 @@
+.poltronas div {
+  width: 200px;
+  height: 200px;
+  float: left;
+  margin: 10px;
+  line-height: 50px;
+  text-align: center;
+  cursor: pointer;
+}
+.vazio {
+  background-color: lightseagreen;
+}
+.ocupado {
+  background-color: tomato;
+}
